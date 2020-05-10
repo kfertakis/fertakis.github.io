@@ -7,8 +7,7 @@ description: <a href="https://lsds.doc.ic.ac.uk/">Large Scale Data & Systems Gro
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Office 346, Huxley Building</p>
+  address: 
 
 news: true
 social: true
