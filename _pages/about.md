@@ -1,23 +1,25 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Konstantinos</strong> Fertakis
+description: <a href="https://lsds.doc.ic.ac.uk/">Large Scale Data & Systems Group</a>, Imperial College London
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office 346, Huxley Building</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome to my page. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a 1st year Ph.D. student with the Large Scale Data & Systems Group at the Department of Computing of the Imperial College London. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My main supervisor is Prof. Peter Pietzuch and my secondary supervisor is Dr. Paolo Costa from Microsoft Research. My Ph.D. studies are supported by a Ph.D. scholarship from the Department of Computing of the Imperial College London. 
+
+My current research focus is on optimizing communication stacks for distributed deep learning systems and integrating emerging heterogeneous hardware for future data centres. 
+
+Previously, I have received my M.Eng. from the [School of Electrical and Computer Engineering](https://www.ece.ntua.gr/en) of the [National Technical University of Greece](https://www.ntua.gr/en/).
